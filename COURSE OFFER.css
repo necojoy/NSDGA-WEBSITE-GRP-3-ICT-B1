@@ -1,0 +1,43 @@
+body
+{
+   background-image: url(NSDGA1.png);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+}
+
+.title
+{
+   text-align:center;
+   color: red;
+   font-size: 2.5em;
+}
+
+.h3
+{
+   color: red;
+}
+
+.h2
+{
+   color: gold;
+   font-size: 30px ;
+}
+
+a
+{
+   color: aqua;
+   font-size: 20px;
+}
+
+.h4
+{
+   color: gold;
+   font-size: 30px;
+}
+
+.h5
+{
+   color: gold;
+   font-size: 30px;
+}
